@@ -3,20 +3,20 @@
  * Safe file upload
  *
  * @package     SafeFileUpload
- * @author      JJ
- * @copyright   2021 JJ
+ * @author      Kuba Jalowiec
+ * @copyright   2021 Kuba Jalowiec
  * @license     GPL-2.0-or-later
  *
  * @wordpress-plugin
- * Plugin Name: Safe file upload
- * Plugin URI:  asdf
+ * Plugin Name: Hidden uploads
+ * Plugin URI:  https://github.com/kubajal/wp_hidden_uploads
  * Description: Safe file upload.
- * Version:     0.0.0
- * Author:      JJ
- * Author URI:  asdf
- * Text Domain: safe-file-upload
+ * Version:     0.0.1
+ * Author:      Kuba Jalowiec
+ * Author URI:  https://github.com/kubajal
+ * Text Domain: hidden-uploads
  * License:     GPL v2 or later
- * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+ * License URI: http://www.gnu.org/licenses/gpl-3.0.txt
  */
 
 add_filter('upload_dir', 'custom_upload_dir');
