@@ -1,2 +1,4 @@
+# put this file in wp-content/uploads/submissions
+
 RewriteEngine on
 RewriteRule ^(.*)$ index.php?file=$1 [NC,L,QSA]

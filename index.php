@@ -1,5 +1,7 @@
 <?php
 
+// put this file in wp-content/uploads/submissions
+
 define('WP_USE_THEMES', false);
 require('../../../wp-load.php'); //location of this file may be different 
 
