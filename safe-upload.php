@@ -1,8 +1,8 @@
 <?php
 /**
- * Safe file upload
+ * Hidden uploads
  *
- * @package     SafeFileUpload
+ * @package     HiddenUploads
  * @author      Kuba Jalowiec
  * @copyright   2021 Kuba Jalowiec
  * @license     GPL-2.0-or-later
